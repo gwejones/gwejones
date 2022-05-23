@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gwejones
-- 👀 I’m interested in data engineering and data science
-- 🌱 I’m currently learning to be a data engineer
-- 💞️ I’m looking to switch career paths
+- 👀 I’m interested in dev, data engineering and data science
 - 📫 Reach me in [here](https://www.linkedin.com/in/gwejones)
 
 <!---
