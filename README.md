@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gwejones
-- 👀 I’m interested in dev, data engineering and data science
+- 👀 I’m interested in distributed systems and crypto
 - 📫 Reach me in [here](https://www.linkedin.com/in/gwejones)
 
 <!---
